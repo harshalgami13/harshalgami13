@@ -1,4 +1,4 @@
-## Hello People <img src="https://raw.githubusercontent.com/harshalgami13/harshalgami13/main/UiMl.gif" width="100px">
+## Hello People
 
 > I am ``Harshal Gami`` from India
 
