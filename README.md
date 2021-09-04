@@ -1,6 +1,6 @@
 ### Hello People 👋
 
-> I am ``Harshal Gami `` from India
+> I am ``Harshal Gami`` from India
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Angular , Jquery 
