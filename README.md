@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Blog](https://raw.githubusercontent.com/harshalgami13/harshalgami13/main/My%20self.png "Header")](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/www.harshalgami/)
+[![Blog](https://raw.githubusercontent.com/harshalgami13/harshalgami13/main/My%20self.png "Header")](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/)
 
 # Hello, World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -8,7 +8,7 @@ My name is Harshal Gami and I'm a future web developer. I'm from India, living i
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [HarshalGami | Blog](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/www.harshalgami/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [HarshalGami | Blog](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/).
 
 
 <!-- ## &#x1f4c8; GitHub Stats -->
