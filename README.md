@@ -14,10 +14,7 @@ My name is Harshal Gami and I'm a future web developer. I'm from India, living i
   - MonogDB
   - Node.js
   - Jquery
- 
-## &#x1f4c8; Blog Preview 
 
-<a href="https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/"><img src="preview.png"></a>
 
 
 
