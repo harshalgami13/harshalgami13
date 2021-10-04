@@ -9,13 +9,13 @@ My name is Harshal Gami and I'm a future web developer. I'm from India, living i
 ## &#x270d; Working
 
 - Apart from coding, I also maintain a blog - you can find my articles on my website at [HarshalGami | Blog](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/).
-- Currently, I am working on creating a database of travel blogs using MongoDB.
-- Learning Subject :
+- Currently, I am working on 
+  - creating a database using MongoDB.
+  - creating a travel information | [Explore Wolrd](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/exploreworld/).
+
+- Known Subject :
   - MonogDB
-  - Node.js
+  - Angular
   - Jquery
-
-
-
-
- 
+  - Html
+  - CSS
