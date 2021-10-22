@@ -1,21 +1,40 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+![From India](india.jpg)
 
-[![Blog](https://raw.githubusercontent.com/harshalgami13/harshalgami13/main/My%20self.png "Header")](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/)
+# Hi 👋 I am Harshal.
 
-# Hello, World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm a future web developer. I'm from India, living in rajkot and currently I am student.
 
-My name is Harshal Gami and I'm a future web developer. I'm from India, living in rajkot and currently I am student. You can find me on <a href="https://www.instagram.com/___.h_g_patel.___13/" target="_blank"><img src="https://raw.githubusercontent.com/harshalgami13/harshalgami13/main/580b57fcd9996e24bc43c521.png" width="20px"></a> ,  or on <a href="https://www.linkedin.com/in/harshalgami/" target="_blank"><img src="https://raw.githubusercontent.com/harshalgami13/harshalgami13/main/58e91afdeb97430e81906504.png" width="20px"></a>.
+## The developer side of me
 
-## &#x270d; Working
+- HTML and CSS is my first love ❤️. I also like Bootstrap. 
 
-- Apart from coding, I also maintain a blog - you can find my articles on my website at [HarshalGami | Blog](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/).
-- Currently, I am working on 
-  - creating a database using MongoDB.
-  - creating a travel information | [abroadwithharshal](https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/abroadwithharshal/). [ It is under maintenance ]
+- Mean Stack is my everest point 🏔️
 
-- Known Subject :
-  - MonogDB
-  - Angular
-  - Jquery
-  - Html
-  - CSS
+- At that time I am reach at A from Mean. 
+
+- Currently, I am creating a travel infosite as well as a blog site. 🧳
+
+## Connect with me
+
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="150">
+
+<br/>
+
+ [![Twitter][1.1]][1.2] [![Facebook][2.1]][2.2] [![Linkedin][3.1]][3.2] 
+
+[1.1]: https://img.shields.io/badge/Instagram-Follow%20me%20on-C13584
+[1.2]: https://www.instagram.com/___.h_g_patel.___13/
+
+[2.1]: https://img.shields.io/badge/Facebook-Follow%20me%20on-4267B2
+[2.2]: https://www.facebook.com/harshal.gami.136/
+
+[3.1]: https://img.shields.io/badge/Linkedin-Connect%20With%20Me-2867B2
+[3.2]: https://www.linkedin.com/in/harshalgami/
+
+[![Abroadwithharshal][4.1]][4.2] [![harshalgami][5.1]][5.2]
+
+[4.1]: https://img.shields.io/badge/abroadwithharshal-Share%20Blog-f13c20
+[4.2]: https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/abroadwithharshal/
+
+[5.1]: https://img.shields.io/badge/harshalgami-Share%20Blog-0fbcd3
+[5.2]: https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/
