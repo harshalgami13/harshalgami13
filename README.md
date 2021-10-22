@@ -2,9 +2,11 @@
 
 # Hi 👋 I am Harshal.
 
-I'm a future web developer. I'm from India, living in rajkot and currently I am student.
+#### I'm a future web developer. I'm from India, living in rajkot and currently I am student.
 
 ## The developer side of me
+
+<img src="Cartoon.png" align="left" height="150">
 
 - HTML and CSS is my first love ❤️. I also like Bootstrap. 
 
@@ -13,6 +15,7 @@ I'm a future web developer. I'm from India, living in rajkot and currently I am 
 - At that time I am reach at A from Mean. 
 
 - Currently, I am creating a travel infosite as well as a blog site. 🧳
+
 
 ## Connect with me
 
