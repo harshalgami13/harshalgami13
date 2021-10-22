@@ -1,8 +1,8 @@
 ![From India](india.jpg)
 
-# Hi 👋 I am Harshal.
+# नमस्ते | I am Harshal.
 
-#### I'm a future web developer. I'm from India, living in rajkot and currently I am student.
+I'm a future web developer. I'm from India, living in rajkot and currently I am student.
 
 ## The developer side of me
 
