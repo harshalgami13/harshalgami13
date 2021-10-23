@@ -39,7 +39,7 @@ I'm a future web developer. I'm from India, living in rajkot and currently I am 
 [3.1]: https://img.shields.io/badge/Linkedin-Connect%20With%20Me-2867B2
 [3.2]: https://www.linkedin.com/in/harshalgami/
 
-[![Abroadwithharshal][4.1]][4.2] [![harshalgami][5.1]][5.2]
+[![harshalgami][5.1]][5.2]
 
 [4.1]: https://img.shields.io/badge/abroadwithharshal-Share%20Blog-f13c20
 [4.2]: https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/abroadwithharshal/
