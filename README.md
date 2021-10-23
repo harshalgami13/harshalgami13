@@ -17,6 +17,12 @@ I'm a future web developer. I'm from India, living in rajkot and currently I am 
 - Currently, I am creating a travel blog site. 🧳
 
 
+## Summary of My Github account
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgami13&layout=compact)](https://github.com/harshalgami13/github-readme-stats)
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshalgami13&show_icons=true&theme=material-palenight&hide=contribs,issues)
+
+
 ## Connect with me
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="150">
@@ -41,3 +47,4 @@ I'm a future web developer. I'm from India, living in rajkot and currently I am 
 
 [5.1]: https://img.shields.io/badge/harshalgami-Share%20Blog-0fbcd3
 [5.2]: https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/
+
