@@ -2,7 +2,9 @@
 
 # नमस्ते | I am Harshal.
 
-I'm a mean web developer from India, living in Junagadh and currently I am student.
+I'm a mean web developer from India, living in Junagadh and currently I am student. 
+
+[![Resume][6.1]][6.2]
 
 ## The developer side of me
 
@@ -28,22 +30,24 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 <br/>
 
- [![Twitter][1.1]][1.2] [![Facebook][2.1]][2.2] [![Linkedin][3.1]][3.2] 
+ [![Twitter][1.1]][1.2] [![Facebook][2.1]][2.2] [![Linkedin][3.1]][3.2]  
 
-[1.1]: https://img.shields.io/badge/Instagram-Follow%20me%20on-C13584
+[1.1]: https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=ffffff
 [1.2]: https://www.instagram.com/___.h_g_patel.___13/
 
-[2.1]: https://img.shields.io/badge/Facebook-Follow%20me%20on-4267B2
+[2.1]: https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=ffffff
 [2.2]: https://www.facebook.com/harshal.gami.136/
 
-[3.1]: https://img.shields.io/badge/Linkedin-Connect%20With%20Me-2867B2
+[3.1]: https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=ffffff
 [3.2]: https://www.linkedin.com/in/harshalgami/
 
 [![harshalgami][5.1]][5.2]
 
-[4.1]: https://img.shields.io/badge/abroadwithharshal-Share%20Blog-f13c20
+[4.1]: https://img.shields.io/badge/abroadwithharshal-Share%20Blog-f13c20?style=for-the-badge
 [4.2]: https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/abroadwithharshal/
 
-[5.1]: https://img.shields.io/badge/harshalgami-Share%20Blog-0fbcd3
+[5.1]: https://img.shields.io/badge/harshalgami-0fbcd3?style=for-the-badge&logo=wordpress&logoColor=ffffff
 [5.2]: https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/harshalgami/
 
+[6.1]: https://img.shields.io/badge/My%20Resume-335384?style=for-the-badge&logo=docusign&logoColor=ffffff
+[6.2]: https://github.com/harshalgami13/harshalgami13/blob/main/Harshal%20Gami.jpg
