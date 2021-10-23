@@ -14,7 +14,7 @@ I'm a future web developer. I'm from India, living in rajkot and currently I am 
 
 - At that time I am reach at `A` in Mean. 
 
-- Currently, I am creating a travel infosite as well as a blog site. 🧳
+- Currently, I am creating a travel blog site. 🧳
 
 
 ## Connect with me
