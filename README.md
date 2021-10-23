@@ -19,9 +19,8 @@ I'm a future web developer. I'm from India, living in rajkot and currently I am 
 
 ## Summary of My Github account
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgami13&layout=compact)](https://github.com/harshalgami13/github-readme-stats)
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshalgami13&show_icons=true&theme=material-palenight&hide=contribs,issues)
-
+| <a href="https://github.com/harshalgami13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalgami13&show_icons=true&theme=vue&hide_border=true&custom_title=My%20%Github%20%Stats&hide=contribs,issues" alt="Harshal's github stats" /></a> | <a href="https://github.com/harshalgami13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgami13&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Connect with me
 
