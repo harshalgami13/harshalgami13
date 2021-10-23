@@ -1,4 +1,4 @@
-![From India](india.jpg)
+![From India](india.png)
 
 # नमस्ते | I am Harshal.
 
