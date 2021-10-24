@@ -21,7 +21,7 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 ## Summary of My Github account
 
-| <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalgami13&show_icons=true&theme=vue&hide_border=true&custom_title=My%20%Github%20%Stats&hide=contribs,issues" alt="Harshal's github stats" /></a> | <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgami13&layout=compact&theme=vue&hide_border=true" /></a> |
+| <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalgami13&show_icons=true&theme=vue&hide_border=true&custom_title=My%20%Github%20%Stats&hide=contribs,issues&count_private=true" alt="Harshal's github stats" /></a> | <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgami13&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Connect with me
