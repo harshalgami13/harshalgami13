@@ -8,16 +8,15 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 ## The developer side of me
 
-<img src="Cartoon.png" align="left" height="150">
+<img src="Cartoon.png" align="left" height="200">
 
 - HTML and CSS is my first love ❤️. I also like Bootstrap. 
 
 - Mean Stack is my everest point 🏔️
 
-- At that time I am reach at `A` in Mean. 
+- At that time I am reach at **`A`** in Mean. 
 
-- Currently, I am creating a travel blog site. 🧳
-
+- SKill Subjects: **`Angular`, `HTML`, `CSS`, `Jquery`, `Bootstrap`, `Mongodb`** 
 
 ## Summary of My Github account
 
