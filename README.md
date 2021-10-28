@@ -29,7 +29,7 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 <br/>
 
- [![Twitter][1.1]][1.2] [![Facebook][2.1]][2.2] [![Linkedin][3.1]][3.2]  
+ [![Instagram][1.1]][1.2] [![Facebook][2.1]][2.2] [![Linkedin][3.1]][3.2]  
 
 [1.1]: https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=ffffff
 [1.2]: https://www.instagram.com/___.h_g_patel.___13/
