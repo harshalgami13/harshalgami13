@@ -1,4 +1,4 @@
-![From India](india.png)
+![profile](profile.gif)
 
 # नमस्ते | I am Harshal.
 
