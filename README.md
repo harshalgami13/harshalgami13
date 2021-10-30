@@ -14,9 +14,10 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 - Mean Stack is my everest point 🏔️.
 
-- At that time I am reach at **`A`** in Mean. 
+- At that time I am reach at **`A`** in Mean.
 
 - SKill Subjects: **`Angular`, `HTML`, `CSS`, `Jquery`, `Bootstrap`, `Mongodb`** 
+
 
 ## Summary of My Github account 🧾
 
