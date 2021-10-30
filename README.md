@@ -20,12 +20,12 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 ## Summary of My Github account 🧾
 
-| <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalgami13&show_icons=true&theme=vue&hide_border=true&custom_title=My%20%Github%20%Stats&hide=contribs,issues&count_private=true&cache_seconds=1800" alt="Harshal's github stats" /></a> | <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgami13&layout=compact&theme=vue&hide_border=true&cache_seconds=1800" /></a> |  
+| <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalgami13&show_icons=true&theme=vue&hide_border=true&custom_title=My%20%Github%20%Stats&hide=contribs,issues&count_private=true&cache_seconds=1" alt="Harshal's github stats" /></a> | <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgami13&layout=compact&theme=vue&hide_border=true&cache_seconds=1" /></a> |  
 | ------------- | ------------- |
 
 ## Streak stats 🔥
 
-| <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalgami13&theme=vue&text_color=ffffff&hide_border=true&cache_seconds=10" /></a> |
+| <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalgami13&theme=vue&text_color=ffffff&hide_border=true&cache_seconds=1" /></a> |
 | ------------- |
 
 ## Connect with me 🖐🏻
