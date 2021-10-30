@@ -10,9 +10,9 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 <img src="Cartoon.png" align="left" height="150">
 
-- HTML and CSS is my first love ❤️. I also like Bootstrap. 
+- HTML and CSS is my first love ❤️. Bootstrap is my crush 🥰. 
 
-- Mean Stack is my everest point 🏔️
+- Mean Stack is my everest point 🏔️.
 
 - At that time I am reach at **`A`** in Mean. 
 
