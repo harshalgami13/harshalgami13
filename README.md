@@ -25,7 +25,7 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 ## Streak stats 🔥
 
-| <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalgami13&theme=vue&text_color=ffffff&hide_border=true&cache_seconds=1800" /></a> |
+| <a href="https://github.com/harshalgami13"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalgami13&theme=vue&text_color=ffffff&hide_border=true&cache_seconds=10" /></a> |
 | ------------- |
 
 ## Connect with me 🖐🏻
