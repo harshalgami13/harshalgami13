@@ -45,10 +45,7 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 [3.1]: https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=ffffff
 [3.2]: https://www.linkedin.com/in/harshalgami/
 
-[![harshalgami][5.1]][5.2]
+[![harshalgami][4.1]][4.2]
 
-[4.1]: https://img.shields.io/badge/abroadwithharshal-Share%20Blog-f13c20?style=for-the-badge
-[4.2]: https://bdmrgxz4ptu3ljtkn5f1rq-on.drv.tw/abroadwithharshal/
-
-[5.1]: https://img.shields.io/badge/harshalgami-0fbcd3?style=for-the-badge&logo=wordpress&logoColor=ffffff
-[5.2]: https://harshalgami13.github.io/
+[4.1]: https://img.shields.io/badge/harshalgami-0fbcd3?style=for-the-badge&logo=wordpress&logoColor=ffffff&color=3a3a81
+[4.2]: https://harshalgami13.github.io/
