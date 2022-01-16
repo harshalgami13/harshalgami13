@@ -12,7 +12,7 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 - Current Learning : **`.net`** .
 
-- SKill Subjects: **`Angular`, `HTML`, `CSS`, `Jquery`, `Bootstrap`, `Mongodb`** 
+- SKill Subjects: **`Angular`, `HTML`, `CSS`, `Jquery`, `Bootstrap`, `Mongodb` , `.net` , `SQL` ** 
 
 <br/>
 
