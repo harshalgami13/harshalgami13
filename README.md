@@ -10,12 +10,11 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 - HTML and CSS is my first love ❤️. Bootstrap is my crush 🥰. 
 
-- Mean Stack is my everest point 🏔️.
-
-- At that time I am reach at **`A`** in Mean.
+- Current Learning : **`.net`** .
 
 - SKill Subjects: **`Angular`, `HTML`, `CSS`, `Jquery`, `Bootstrap`, `Mongodb`** 
 
+<br/>
 
 ## Summary of My Github account 🧾
 
