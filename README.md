@@ -10,7 +10,7 @@ I'm a mean web developer from India, living in Junagadh and currently I am stude
 
 - HTML and CSS is my first love ❤️. Bootstrap is my crush 🥰. 
 
-- Current Learning : **`.net`** .
+- Current Learning : **`ASP.Net` , `SQL`** .
 
 - SKill Subjects: **`Angular`, `HTML`, `CSS`, `Jquery`, `Bootstrap`, `Mongodb` , `.net` , `SQL`** 
 
