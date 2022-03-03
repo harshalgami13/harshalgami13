@@ -2,7 +2,7 @@
 
 # नमस्ते | I am Harshal.
 
-I'm a mean web developer from India, living in Junagadh and currently I am student. 
+I'm an Asp.net web developer from India, from Junagadh and currently I am student. 
 
 ## The developer side of me
 
