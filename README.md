@@ -1,4 +1,4 @@
-![profile](profile.gif)
+![profile](Harshal%20Gami.gif)
 
 # नमस्ते | I am Harshal.
 
