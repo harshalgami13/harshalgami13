@@ -12,7 +12,7 @@ I'm Web Developer from Rajkot-India and currently I am student of Computer Engin
 
 - SKill Subjects:  **`HTML` ,`CSS` , `Jquery` , `Bootstrap` , `Mongodb` ,`SQL` ,`ASP.Net`** 
 
-<br/>
+<br/><br/>
 
 ## Summary of My Github account 🧾
 
