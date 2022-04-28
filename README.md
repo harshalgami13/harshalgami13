@@ -2,7 +2,7 @@
 
 # नमस्ते | I am Harshal.
 
-I'm ASP.Net Developer as well as Web Developer from Rajkot-India and currently I am student of Computer Engineering.
+I'm Web Developer from Rajkot-India and currently I am student of Computer Engineering.
 
 ## The developer side of me
 
@@ -10,9 +10,7 @@ I'm ASP.Net Developer as well as Web Developer from Rajkot-India and currently I
 
 - HTML and CSS is my first love ❤️. 
 
-- Current Learning : **`ASP.Net` , `SQL`** .
-
-- SKill Subjects: **`ASP.Net` , `HTML` , `CSS` , `Jquery` , `Bootstrap` , `Mongodb` , `SQL`** 
+- SKill Subjects:  **`HTML` ,`CSS` , `Jquery` , `Bootstrap` , `Mongodb` ,`SQL` ,`ASP.Net`** 
 
 <br/>
 
