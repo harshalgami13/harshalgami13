@@ -2,7 +2,7 @@
 
 # नमस्ते | I am Harshal.
 
-I'm Web Developer from Rajkot-India and currently I am student of Computer Engineering.
+I'm Web Developer from Rajkot-India. I am working as Trainee Web Developer at <a href="https://www.yudiz.com/">Yudiz Solutions.</a>
 
 ## The developer side of me
 
@@ -10,7 +10,7 @@ I'm Web Developer from Rajkot-India and currently I am student of Computer Engin
 
 - HTML and CSS is my first love ❤️. 
 
-- SKill Subjects:  **`HTML` ,`CSS` , `Jquery` , `Bootstrap` , `Mongodb` ,`SQL` ,`ASP.Net`** 
+- SKill Subjects:  **`HTML`, `CSS`, `JavaScript`, `Jquery`, `Bootstrap`, `Mongodb`, `SQL`, `ASP.Net`** 
 
 <br/><br/>
 
@@ -31,7 +31,9 @@ I'm Web Developer from Rajkot-India and currently I am student of Computer Engin
 
 <br/>
 
- [![Instagram][1.1]][1.2] [![Facebook][2.1]][2.2] [![Linkedin][3.1]][3.2]  
+ [![Instagram][1.1]][1.2] [![Facebook][2.1]][2.2] 
+ 
+ [![Linkedin][3.1]][3.2] [![harshalgami][4.1]][4.2]
 
 [1.1]: https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=ffffff
 [1.2]: https://www.instagram.com/___.h_g_patel.___13/
@@ -42,7 +44,6 @@ I'm Web Developer from Rajkot-India and currently I am student of Computer Engin
 [3.1]: https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=ffffff
 [3.2]: https://www.linkedin.com/in/harshalgami/
 
-[![harshalgami][4.1]][4.2]
 
 [4.1]: https://img.shields.io/badge/harshalgami-0fbcd3?style=for-the-badge&logo=wordpress&logoColor=ffffff&color=3a3a81
 [4.2]: https://harshalgami13.github.io/
