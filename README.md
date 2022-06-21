@@ -6,13 +6,25 @@ I'm Web Developer from Rajkot-India. I am working as Trainee Web Developer at <a
 
 ## The developer side of me
 
-<img src="Cartoon.png" align="left" height="150">
+<!-- <img src="Cartoon.png" align="left" height="150"> 
 
 - HTML and CSS is my first love ❤️. 
 
-- SKill Subjects:  **`HTML`, `CSS`, `JavaScript`, `Jquery`, `Bootstrap`, `Mongodb`, `SQL`, `ASP.Net`** 
+**`HTML`, `CSS`, `JavaScript`, `Jquery`, `Bootstrap`, `Mongodb`, `SQL`, `ASP.Net`** -->
 
-<br/><br/>
+![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=HTML)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=CSS)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=JavaScript)
+![Jquery](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Jquery)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Bootstrap)
+![Mongodb](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Mongodb)
+![SQL](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=SQL)
+![ASP.Net](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=ASP.Net)
+
+
+
+
+
 
 ## Summary of My Github account 🧾
 
@@ -27,13 +39,11 @@ I'm Web Developer from Rajkot-India. I am working as Trainee Web Developer at <a
 
 ## Connect with me 🖐🏻
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="150">
+<!-- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="150"> -->
 
 <br/>
 
- [![Instagram][1.1]][1.2] [![Facebook][2.1]][2.2] 
- 
- [![Linkedin][3.1]][3.2] [![harshalgami][4.1]][4.2]
+ [![Instagram][1.1]][1.2] [![Facebook][2.1]][2.2] [![Linkedin][3.1]][3.2] [![harshalgami][4.1]][4.2]
 
 [1.1]: https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=ffffff
 [1.2]: https://www.instagram.com/___.h_g_patel.___13/
