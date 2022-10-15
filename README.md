@@ -2,7 +2,7 @@
 
 # नमस्ते | I am Harshal.
 
-I'm Web Developer from Rajkot-India. I am working as Trainee Web Developer at <a href="https://www.yudiz.com/">Yudiz Solutions.</a>
+I'm HTML5 Game Developer from Ahmedabad. I am working as Trainee HTML5 Game Developer at <a href="https://www.yudiz.com/">Yudiz Solutions.</a>
 
 ## The developer side of me
 
