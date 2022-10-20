@@ -1,4 +1,4 @@
-![profile](Banner.jpg)
+![profile](Untitled.png)
 
 # नमस्ते | I am Harshal.
 
