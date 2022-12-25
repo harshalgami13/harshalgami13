@@ -2,18 +2,20 @@
 
 # नमस्ते | I am Harshal.
 
-I'm HTML5 Game Developer from Ahmedabad. I am working as Trainee HTML5 Game Developer at <a href="https://www.yudiz.com/">Yudiz Solutions.</a>
+I'm HTML5 Game Developer from Ahmedabad. I am working as Trainee HTML5 Game Developer at <a href="https://www.yudiz.com/">Yudiz Solutions.</a>as well as I am pursuing my 7th semester of CSE (BTech) from Darshan University.
+
+I also have good experience in Web development Technologies like HTML5, CSS3, jQuery, Java Script as well as in phaser-3 framework for game development
 
 ## The developer side of me
 
-![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=HTML)
-![CSS](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=CSS)
+![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=HTML5)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=CSS3)
+![Phaser-3](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Phaser3)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=JavaScript)
 ![Jquery](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Jquery)
-![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Bootstrap)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Bootstrap5)
 ![Mongodb](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Mongodb)
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=SQL)
-![ASP.Net](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=ASP.Net)
 
 
 ## Summary of My Github account 🧾
