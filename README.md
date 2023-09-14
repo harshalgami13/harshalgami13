@@ -37,13 +37,7 @@
 
 ## Connect with me 🖐🏻
 
-[![Instagram][1.1]][1.2] [![Facebook][2.1]][2.2] [![Linkedin][3.1]][3.2] [![harshalgami][4.1]][4.2]
-
-[1.1]: https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=ffffff
-[1.2]: https://www.instagram.com/___.h_g_patel.___13/
-
-[2.1]: https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=ffffff
-[2.2]: https://www.facebook.com/harshal.gami.136/
+[![Linkedin][3.1]][3.2] [![harshalgami][4.1]][4.2]
 
 [3.1]: https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=ffffff
 [3.2]: https://www.linkedin.com/in/harshalgami/
