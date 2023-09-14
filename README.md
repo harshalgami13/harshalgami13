@@ -2,9 +2,18 @@
 
 # नमस्ते | I am Harshal.
 
-I'm HTML5 Game Developer from Ahmedabad. I am working as Trainee HTML5 Game Developer at <a href="https://www.yudiz.com/">Yudiz Solutions.</a>as well as I am pursuing my 7th semester of CSE (BTech) from Darshan University.
+👋 Hi there! 
 
-I also have good experience in Web development Technologies like HTML5, CSS3, jQuery, Java Script as well as in phaser-3 framework for game development
+ I'm Harshal Gami, an HTML5 Game Developer with a passion for creating immersive and entertaining web-based gaming experiences. Currently, I'm part of the talented team at <a href="https://www.yudiz.com/">Yudiz Solutions.</a>, where we constantly push the boundaries of what's possible in the world of gaming.
+
+🎮 As an HTML5 Game Developer, I harness the power of cutting-edge web technologies to craft games that captivate and engage players across various platforms. My journey into the world of web development started at Darshan University, where I honed my skills and graduated with flying colors in 2023.
+
+💼 At Yudiz Solutions, I am fortunate to collaborate with a dynamic group of professionals, where we synergize creativity, innovation, and technical expertise to build games that leave a lasting impact. Whether it's coding intricate game mechanics, optimizing performance, or crafting stunning visuals, I'm driven by the pursuit of excellence in every aspect of my work.
+
+🚀 With a strong foundation in HTML5, CSS, and JavaScript, I relish the challenges that arise in the ever-evolving landscape of game development. My goal is to create memorable gaming experiences that not only entertain but also inspire players worldwide.
+
+🌟 If you're as passionate about game development and HTML5 as I am, or if you'd like to explore potential collaborations and opportunities, feel free to connect with me. Let's bring some gaming magic to the digital world together! 🎉
+
 
 ## The developer side of me
 
@@ -14,9 +23,6 @@ I also have good experience in Web development Technologies like HTML5, CSS3, jQ
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=JavaScript)
 ![Jquery](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Jquery)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Bootstrap5)
-![Mongodb](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=Mongodb)
-![SQL](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233178c6&message=SQL)
-
 
 ## Summary of My Github account 🧾
 
